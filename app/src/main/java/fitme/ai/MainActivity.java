@@ -335,7 +335,8 @@ public class MainActivity extends Activity implements View.OnClickListener , IGe
             handler.sendEmptyMessageDelayed(1,10000);
             wordsToVoice.startSynthesizer("欢迎回家，已为你打开回家模式",mTtsListener);
 
-        }else if (scene(sendMsg,"我要出门")||scene(sendMsg,"准备出门")){
+        }
+        /*else if (scene(sendMsg,"我要出门")||scene(sendMsg,"准备出门")){
             L.i("2");
             blControl.commandRedCodeDevice(BLControlConstants.MAIN_LIGHT_CLOSE, BLControlConstants.RM_PRO_DID);   //关灯
             blControl.commandRedCodeDevice(BLControlConstants.GARAGE_DOOR, BLControlConstants.RM_PRO_DID);   //车库门
@@ -371,7 +372,8 @@ public class MainActivity extends Activity implements View.OnClickListener , IGe
             messageCreat(NetworkStateUtil.getLocalMacAddressFromWifiInfo(MainActivity.this)
                     ,String.valueOf(app.getLongitude()),String.valueOf(app.getLatitude()),"device_text","我要看楚乔传","13145");
             L.i("10");
-        }else {
+        }*/
+        else {
             //发送消息请求
             if (!"。".equals(sendMsg)){
                 messageCreat(NetworkStateUtil.getLocalMacAddressFromWifiInfo(MainActivity.this)
