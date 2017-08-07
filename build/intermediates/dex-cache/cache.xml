@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_9d0cef87195a1eef5e2f4009f4934c27c410cf6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ce27164fc797380589b45b5da6f913092b86e378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hongy\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\okio-1.13.0_fc9cfc9f4d964dd104c2b2391f2a2bb1b09b8268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\libs\AMap_Search_V3.6.1_20161222.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="24513d2df5578711e6cf259a8aabfda4dd767864">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\AMap_Search_V3.6.1_20161222_d8f34bd00ea491831cca350fb7f74609b49a7302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hongy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.3.0\43e4ac24adc40a24c51b2d2a71a2483ef1b0ce9a\adapter-rxjava-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43e4ac24adc40a24c51b2d2a71a2483ef1b0ce9a">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.3.0_6ca3e5c0b8e0e371b3987561240d491a4dffc114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hongy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_c0c62da368373b8957089712ac0558d4282ee733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_e4f76a96d2eb643ae51193bc4f1a7243d92b8bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\libs\Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4083a4f9ce52504595916209d87df4deeb9def6d">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\Sunflower_fb59f0b8c063f99638097cff52c3e4287ad1a6f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hongy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\gson-2.8.0_a682445f5ecc9ac55bfd22ca397ac4d95f83ba96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_41e1d75497d1787575523eb31806f056c399e3f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hongy\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.3.0\af000bec2036a2a9d07197c4b03b8966bfc60b03\rxjava-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af000bec2036a2a9d07197c4b03b8966bfc60b03">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\rxjava-1.3.0_b261b2480a4ec1119f23cf4c4df84776b620468e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7bcf4577909f4784a5f7772e259902473bdc50bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_0f6992600f45aba2a6c5aa6935c0411a45f920d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_eaaf8f61d00bc034ad328ad06393f4b73b4e3041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_864be70e00948185d0e3e9ab98fc5dced1d7671d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_bfba7ce115c05377b72f97f70220b7a167250138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b1f7e351624ad5060f1da040f404b8f72629feae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hongy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_f7334d90b7b18efe02d3bbad2f25d9448c780bc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="107599302660b1577c1dbe10f1e8980434413a17">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\Msc_4966eb7b8579b7d5a84af2668e2e2d2e3f460ddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_4990f81b9f9de79dfa03d5b2eb629f8b612f66fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_036bf9f72f06e9b0bfb83bb9fd763e5341faa9f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_d067582503798e18a2626b268e905e6a06222f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_0b26b9a3cdee38255920099a09b2c960fa52c07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_42b4a280ac4d76613967ed00b30a87c893913d6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\libs\AMap_Location_V2.9.0_20160906.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="87ae333ac5ef709c0cdd39fac637fa3c9209dd28">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\AMap_Location_V2.9.0_20160906_300767bc25fb1acdee1c31af52046cd15b9550d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hongy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_a274073b18cba95ffc7b130265220ce495fa7a81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hongy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_262cd968d57f0148cd26bb5ae627ab7f2534269b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\libs\libLet.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c4a82c94324cf5c4f16d7c17dfee2cb94279b89">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\libLet_e05680748a2baf86f1f27c9e57f174071c6fa9a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Fitme\FitmeSoundWithSZ\app\libs\Sai.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a44b352264754e4c5cb404b3211711d8767100d">
+        <dex dex="C:\Fitme\FitmeSoundWithSZ\app\build\intermediates\pre-dexed\debug\Sai_96a8986f07565e1b1aa044e76717b475bc381728.jar" />
+    </item>
+
+</items>

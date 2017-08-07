@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sai">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/Sai.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

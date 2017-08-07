@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libLet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/libLet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
