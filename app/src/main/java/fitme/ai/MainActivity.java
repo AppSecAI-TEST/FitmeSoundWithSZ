@@ -188,6 +188,7 @@ public class MainActivity extends Activity implements View.OnClickListener , IGe
                 while (true){
                     //iflytekWakeUp.startWakeuper();
                     try {
+                        mSaiAPIWrap.start_service();
                         sleep(40000);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
@@ -728,7 +729,7 @@ public class MainActivity extends Activity implements View.OnClickListener , IGe
                         super.run();
                         try {
                             sleep(15000);
-                            BLLet.Controller.stopProbe();
+                            //BLLet.Controller.stopProbe();
                             L.i("停止扫描");
                             handler.sendEmptyMessage(2);
                         } catch (InterruptedException e) {
@@ -1076,9 +1077,10 @@ public class MainActivity extends Activity implements View.OnClickListener , IGe
         L.i("mac地址为："+mac);
         //暂时把mac地址写死
         mac = "ac:83:f3:3f:7f:ae";
+        //mac = "ac:83:f3:3f:7f:a3";
         String timeStamp = SignAndEncrypt.getTimeStamp();
         LinkedHashMap<String, Object> params = new LinkedHashMap<>();
-        params.put("method", "account/device_bind/create");
+        params.put("method", "account/device/create");
         params.put("api_key", ApiManager.api_key);
         params.put("timestamp", timeStamp);
 
@@ -1100,7 +1102,7 @@ public class MainActivity extends Activity implements View.OnClickListener , IGe
         mapDevices.put("user_group","客厅");
         devices.add(mapDevices);
 
-        map.put("user_id", "1067");
+        map.put("user_id", "124");   //1067
         map.put("devices", devices);
 
         Gson gson = new Gson();
